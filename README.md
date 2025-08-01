@@ -1,7 +1,7 @@
 # 💼 My Portfolio – Aayan Kumar
 Welcome to the personal portfolio of Aayan Kumar, a passionate 3rd-year B.Tech Computer Science student at Lovely Professional University (LPU). This website showcases my journey, technical skills, and the impactful projects I’ve built using modern web and cloud technologies.
 
-🔗 Live Website Preview (Add your deployed link here if applicable)
+🔗 Live Website Preview ()
 
 
 👋 About Me
